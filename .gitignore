@@ -1,0 +1,4 @@
+*.json
+*.csv
+mission2_old/
+.DS_Store
