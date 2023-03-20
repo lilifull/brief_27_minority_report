@@ -1,22 +1,18 @@
 Brief 27 minority report 
 
 Mission 1 : 
+
 Pour cette mission, vous trouverez le classeur qui a permis de faire les graphiques et un screenshot du dashboard demandé.
 
 Mission 2 :
-Pour cette mission, vous trouverez le classeur qui a permis de faire les graphiques et les différents screenshots de dashboard demandés.
-##TO DO : 
-Dans un fichier texte :
-un descriptif de l’outil utilisé (environ 2 lignes), si vous n’avez pas choisi Tableau ;
-un descriptif du format de données en entrée (csv ? json ? nom des colonnes du csv ou des clés du json) (environ 2 lignes) ;
-un descriptif de la méthodologie employée pour parvenir au résultat (environ 2 lignes).##
 
+Pour cette mission, vous trouverez le classeur qui a permis de faire les graphiques, les différents screenshots de dashboard demandés et un fichier texte avec les descriptifs demandés.
 
 Mission 3 :
 
-Livrablex :
+Livrables :
 Une analyse du brief du chef de mission pour reformuler son besoin : dans l'introduction de l'histoire dans le classeur mission 3
-Un lien vers l’histoire Tableau publiée sur Tableau Public : ##TODO##
+Un lien vers l’histoire Tableau publiée sur Tableau Public : https://public.tableau.com/app/profile/justine.lopes/viz/Mission_3/ProjetAccsleaupotabledanslemonde?publish=yes
 L’export du fichier Tableau : dans le dossier mission 3 avec les datas.
 
 Notes les données ont eu besoin d'êtres nettoyées :
