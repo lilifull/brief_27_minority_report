@@ -1,0 +1,60 @@
+Descriptif de l’outil utilisé :
+
+Pour cette mission j'ai utilisé Tableau, c'est un logiciel de visualisation de données interactif qui permet aux utilisateurs de créer des graphiques, des tableaux de bord et des rapports basés sur des données. 
+Il a été développé par Tableau Software, une entreprise basée aux États-Unis.
+
+Descriptif du format de données en entrée :
+
+Les données utilisées sont sous forme de CSV : cr-ril.csv et events.csv, téléchargés à cette adresse https://www.data.gouv.fr/fr/datasets/donnees-ouvertes-du-grand-debat-national/.
+Nom des colonnes de cr-ril.csv :
+Création	
+Dernière modification	
+Anonyme	Brouillon	
+Titre	
+Etiez vous	
+Combien de participants etaient presents	
+La reunion est elle referencee sur la plateforme	
+Renseignez le lien de votre reunion sur la plateforme	
+Indiquez le lieu et la date de votre reunion	
+Sur quel s theme s votre reunion a t elle porte	
+Comment la reunion sest elle passee	
+Quels ont ete les constats ou les diagnostics exprimes sur les themes du debat	
+Quelles sont les propositions qui ont emerge des discussions	
+Des avis divers voire opposes se sont ils exprimes	
+Supports	
+Photographies	
+Video	
+Documents	
+Code postal	
+Code département	
+Département	
+Région	
+Ville	
+Motif de modération
+
+Nom des colonnes de events.csv : 
+id	
+title
+createdAt	
+updatedAt	
+startAt	
+endAt	
+enabled	
+lat	
+lng	
+fullAddress	
+link	
+url	
+body	
+authorId	
+authorType	
+authorZipCode
+
+
+Descriptif de la méthodologie employée pour parvenir au résultat :
+
+Dans un premier temps j'ai du lier les deux csv avec une liason à gauche sur la colonne titre et title.
+Ensuite pour visulaiser les données, j'ai rélisé trois graphiques : - Un graphique en bâton des contributions en fonction du temps
+                                        - Une carte des contributions en fonction des départements
+                                        - Une graphique en bâton des contribution en fonction des départements
+Ces trois graphiques sont regroupés sur un dashboard où plusieurs filtres sont disponibles : Mois de création, code département, région, authorID et authorType.
